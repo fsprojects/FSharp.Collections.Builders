@@ -20,7 +20,7 @@ open FSharp.Collections.Builders
 
 ## API documentation
 
-See the [API documentation](https://brianrourkeboll.github.io/FSharp.Collections.Builders/reference/index.html)
+See the [API documentation](https://fsprojects.github.io/FSharp.Collections.Builders/reference/index.html)
 for the full set of supported collections and operations.
 
 ## Quick start
