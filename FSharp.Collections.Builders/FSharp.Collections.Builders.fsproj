@@ -8,8 +8,8 @@
     <Authors>Brian Rourke Boll</Authors>
     <Description>Computation expressions for conveniently and efficiently constructing common collections.</Description>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/brianrourkeboll/FSharp.Collections.Builders</RepositoryUrl>
-    <PackageProjectUrl>https://brianrourkeboll.github.io/FSharp.Collections.Builders/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fsprojects/FSharp.Collections.Builders</RepositoryUrl>
+    <PackageProjectUrl>https://fsprojects.github.io/FSharp.Collections.Builders/</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>F#;fsharp;collections</PackageTags>

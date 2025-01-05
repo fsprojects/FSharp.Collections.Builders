@@ -40,8 +40,8 @@ jobs:
           --output ./out \
           --properties Configuration=Release TargetFramework=net8.0 \
           --parameters \
-            fsdocs-license-link https://github.com/brianrourkeboll/FSharp.Collections.Builders/blob/main/LICENSE.md \
-            fsdocs-release-notes-link https://github.com/brianrourkeboll/FSharp.Collections.Builders/releases
+            fsdocs-license-link https://github.com/fsprojects/FSharp.Collections.Builders/blob/main/LICENSE.md \
+            fsdocs-release-notes-link https://github.com/fsprojects/FSharp.Collections.Builders/releases
     - name: Upload GitHub Pages artifact
       uses: actions/upload-pages-artifact@v3
       with:
